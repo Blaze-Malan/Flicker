@@ -14,9 +14,10 @@ The Flicker app is designed to provide users with a simple, interactive experien
 - A splash screen is implemented to provide a smooth startup experience.
 - Randomized messages and exclusive content per page encourage repeat use and engagement.
 
-- ![Evening Page](https://github.com/Blaze-Malan/Flicker/blob/main/Screenshot%202026-03-31%20142900.png?raw=true)
+![Morning Page](https://github.com/Blaze-Malan/Flicker/blob/main/Screenshot%202026-03-31%20142835.png?raw=true)
+ 
 
-- 
+ 
 
 ## Utilization of GitHub
 - Each change is documented through commits, providing transparency and traceability.
