@@ -13,6 +13,9 @@ The Flicker app is designed to provide users with a simple, interactive experien
 - Multiple input words are supported for people who speak differently (e.g., *early* for morning, *midday* for afternoon, *late* for evening).
 - A splash screen is implemented to provide a smooth startup experience.
 - Randomized messages and exclusive content per page encourage repeat use and engagement.
+
+- ![Evening Page](https://github.com/Blaze-Malan/Flicker/blob/main/Screenshot%202026-03-31%20142900.png?raw=true)
+
 - 
 
 ## Utilization of GitHub
