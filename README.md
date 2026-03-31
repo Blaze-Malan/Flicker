@@ -1,4 +1,5 @@
 # Flicker App
+![Main Screen](images/Screenshot-2026-03-31-142814.png)
 
 ## Purpose of the App
 The Flicker app is designed to provide users with a simple, interactive experience where they can input keywords like **morning**, **afternoon**, or **evening** to navigate to themed pages. Each page has its own unique set of social "sparks" depending on the time the user inputs. The purpose of the app is to help people connect and be a little more sociable in small capacities.
