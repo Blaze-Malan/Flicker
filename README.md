@@ -34,4 +34,10 @@ The Flicker app is designed to provide users with a simple, interactive experien
 
 Microsoft (2026) *Copilot*. Microsoft. Available at: https://copilot.microsoft.com (Accessed: 31 March 2026).
 
+YouTube (2019) *Android Splash Screen Tutorial*. Available at: https://www.youtube.com/watch?v=_9uHFGXLUnk (Accessed: 31 March 2026).
+
+YouTube (2020) *Android Toast Hint Guide*. Available at: https://www.youtube.com/watch?v=BO5iCL7U6Lc (Accessed: 31 March 2026).
+
+YouTube (2021) *Round Button Design in Android*. Available at: https://www.youtube.com/watch?v=7h0_CRxNACE (Accessed: 31 March 2026).
+
 ---
