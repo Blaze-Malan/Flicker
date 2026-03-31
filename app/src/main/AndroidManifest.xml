@@ -12,8 +12,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Flicker">
         <activity
+            android:name=".EveningPage"
+            android:exported="false" />
+        <activity
+            android:name=".AfternoonPage"
+            android:exported="false" />
+        <activity
+            android:name=".MorningPage"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/Theme.App.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
