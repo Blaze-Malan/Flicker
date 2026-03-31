@@ -3,6 +3,8 @@
 
 ## Purpose of the App
 The Flicker app is designed to provide users with a simple, interactive experience where they can input keywords like **morning**, **afternoon**, or **evening** to navigate to themed pages. Each page has its own unique set of social "sparks" depending on the time the user inputs. The purpose of the app is to help people connect and be a little more sociable in small capacities.
+![Evening Page](https://github.com/Blaze-Malan/Flicker/blob/main/Screenshot%202026-03-31%20142900.png?raw=true)
+
 
 ## Design Considerations
 - The app uses a simple layout of a single `EditText` and a single navigation button.
@@ -10,6 +12,7 @@ The Flicker app is designed to provide users with a simple, interactive experien
 - Multiple input words are supported for people who speak differently (e.g., *early* for morning, *midday* for afternoon, *late* for evening).
 - A splash screen is implemented to provide a smooth startup experience.
 - Randomized messages and exclusive content per page encourage repeat use and engagement.
+- 
 
 ## Utilization of GitHub
 - Each change is documented through commits, providing transparency and traceability.
