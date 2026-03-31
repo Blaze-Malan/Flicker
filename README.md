@@ -44,6 +44,6 @@ YouTube (2018) *GitHub Actions Step by Step DEMO for Beginners*. Available at: h
 
 YouTube (2019) *Installing and Setting up Git and GitHub*. Available at: https://www.youtube.com/watch?v=wDRoduig_98 (Accessed: 31 March 2026).
 
-YouTube (2020) *Android UI Design Basics*. Available at: https://www.youtube.com/watch?v=UePApsKgkZY (Accessed: 31 March 2026).
+YouTube (2020) *How to Upload Your Android Studio Project to GitHub: Step-by-Step Guide*. Available at: https://www.youtube.com/watch?v=UePApsKgkZY (Accessed: 31 March 2026).
 
 ---
