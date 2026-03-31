@@ -29,4 +29,9 @@ The Flicker app is designed to provide users with a simple, interactive experien
 - Workflows can be tailored to the project’s needs, such as lint checks, unit tests, or generating APKs.
 - Automation ensures consistency and reliability by integrating Continuous Integration (CI) and Continuous Deployment (CD) practices.
 
+
+## References
+
+Microsoft (2026) *Copilot*. Microsoft. Available at: https://copilot.microsoft.com (Accessed: 31 March 2026).
+
 ---
