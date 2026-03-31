@@ -42,7 +42,7 @@ YouTube (2021) *Round Button Design in Android*. Available at: https://www.youtu
 
 YouTube (2018) *GitHub Actions Step by Step DEMO for Beginners*. Available at: https://www.youtube.com/watch?v=ylEy4eLdhFs (Accessed: 31 March 2026).
 
-YouTube (2019) *Android Button Styling Guide*. Available at: https://www.youtube.com/watch?v=wDRoduig_98 (Accessed: 31 March 2026).
+YouTube (2019) *Installing and Setting up Git and GitHub*. Available at: https://www.youtube.com/watch?v=wDRoduig_98 (Accessed: 31 March 2026).
 
 YouTube (2020) *Android UI Design Basics*. Available at: https://www.youtube.com/watch?v=UePApsKgkZY (Accessed: 31 March 2026).
 
