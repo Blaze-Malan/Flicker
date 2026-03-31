@@ -13,11 +13,11 @@ class EveningPage : AppCompatActivity() {
     //original comment on the code is on the afternoonPage as I did that one first
     //the code is the same
     private val eveningMessages = arrayOf(
-        "Send a good morning text to someone",
-        "Share a photo of your breakfast",
-        "Compliment a friend online",
-        "React to a friend’s post with a fun emoji",
-        "Ask someone how they slept"
+        "Share a photo of your dinner",
+        "Send a good night message",
+        "Ask a friend about their highlight of the day",
+        "Tag someone in a throwback photo",
+        "Share a calming song with a friend"
     )
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
